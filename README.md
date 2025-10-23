@@ -10,10 +10,16 @@ It covers every major stage of the CI/CD lifecycle — from code build and conta
 **Key Technologies**:
 
 Docker: for building and managing container images
+
 Terraform: for provisioning cloud infrastructure as code
+
 Jenkins: for CI pipelines with multiple automated stages
+
 Kubernetes: for orchestrating containerized applications
+
 Argo CD: for GitOps-based continuous delivery
+
 ELK Stack + Prometheus: for monitoring, observability, and log analytics
+
 
 **Goal**: Create a portfolio-ready, fully automated DevOps system demonstrating professional skills in CI/CD, IaC, container orchestration, and monitoring.
